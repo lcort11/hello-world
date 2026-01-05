@@ -1,0 +1,2 @@
+SEGUNDO_ARCHIVO.SQL
+manejo mayuscula, minuscula versionamiento
